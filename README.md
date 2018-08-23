@@ -33,3 +33,5 @@
    获取选择的本地图片的path：mPickImages.getImagePaths();
    
    
+   框架目前支持的属性：
+   
