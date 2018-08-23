@@ -1,4 +1,4 @@
-package xinyi.com.imagepicker;
+package person.wxy.imagepicker;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -26,7 +26,7 @@ public class PhotoAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
     private int maxImages;
     private int errorImage;
 
-    private PickImages  pickImages;
+    private PickImages pickImages;
 
     public PhotoAdapter(List<ImageModel> dataSource, int preadLoadImage, int maxImages, int errorImage,PickImages  pickImages) {
         this.dataSource = dataSource;

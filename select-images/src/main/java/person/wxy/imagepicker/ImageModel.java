@@ -1,4 +1,4 @@
-package xinyi.com.imagepicker;
+package person.wxy.imagepicker;
 
 import java.io.Serializable;
 
